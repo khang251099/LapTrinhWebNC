@@ -1,2 +1,2 @@
 # LapTrinhWebNC
-WebsiteBanSachOnline - ThanhVien(Phuc,Khang,Duc,Vu)
+WebsiteBanSachOnline - ThanhVien(Phuc,Khang,Duc,Minh)
